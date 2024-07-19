@@ -1,0 +1,8 @@
+.custom-list{
+    display: flex;
+    justify-content: space-between;
+}
+
+.ml-5px{
+    margin-left: 5px;
+}

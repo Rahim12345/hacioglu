@@ -1,0 +1,18 @@
+.app-footer {
+    font-size: .75rem;
+    padding: 10px 25px 10px 25px;
+    display: flex;
+    justify-content: flex-end;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+}
+
+.btn-toolbar{
+    align-items: center;
+}
+
+a.btn{
+    height: 37px;
+}

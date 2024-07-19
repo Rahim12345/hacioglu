@@ -1,0 +1,51 @@
+.form-control {
+    height: 20px !important;
+    width: 100%;
+}
+
+
+.container,.row {
+    display: flex;
+}
+
+.row{
+    margin: 10px;
+    width: 100%;
+}
+
+.column1 {
+    width: 30%;
+    align-content: center;
+    justify-items: center;
+}
+
+.column2 {
+    width: 70%;
+}
+
+.text-danger {
+    color: red;
+}
+
+.alert.alert-danger {
+    padding: 10px;
+    color: red;
+    font-weight: bold;
+}
+
+#registration-button{
+    float: right;
+    margin-right: 25px;
+}
+
+.login-input{
+    height: 30px !important;
+}
+
+#login-button{
+    margin-left: 165px !important;
+}
+
+#reset-button{
+    margin-left: 232px;
+}
